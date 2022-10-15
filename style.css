@@ -53,7 +53,7 @@ body {
   .image-gallery .column {
 	display: flex;
     flex-direction: column;
-    gap: 10px; 
+    gap: 10px;
   }
 }
 
